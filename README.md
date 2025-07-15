@@ -1,6 +1,6 @@
 # Retico Emotion Tracking 🎭
 
-Retico modules for **real-time user emotional state tracking** using the **VAD** (Valence, Arousal, Dominance) model or **Emotion Intensity** model. Powered by the **NRC Valence, Arousal, and Dominance (NRC-VAD) Lexicon**.
+Retico modules for **real-time user emotional state tracking** using the **VAD** (Valence, Arousal, Dominance) model or **Emotion Intensity** model. Powered by the **NRC Valence, Arousal, and Dominance (NRC-VAD) Lexicon** [Saif Mohammad’s official page](https://saifmohammad.com/WebPages/nrc-vad.html).
 
 ---
 
