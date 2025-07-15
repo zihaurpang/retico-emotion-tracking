@@ -2,7 +2,7 @@ import re, time, sys
 from pathlib import Path
 from collections import defaultdict
 from typing import Iterator, Tuple, Dict, Optional, Union, List
-import matplotlib.pyplot as plt        # add plotting import
+import matplotlib.pyplot as plt
 import csv
 
 import retico_core
@@ -131,6 +131,6 @@ if __name__ == "__main__":
         fig.tight_layout()
         fig.canvas.draw()
         fig.canvas.flush_events()
-        plt.pause(0.5)      # pause between updates
+        plt.pause(0.5) 
     plt.ioff()
     plt.show()
