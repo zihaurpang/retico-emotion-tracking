@@ -2,7 +2,7 @@ import re, time, sys
 from pathlib import Path
 from collections import defaultdict
 from typing import Iterator, Tuple, Dict, Optional, Union, List
-import matplotlib.pyplot as plt        # add plotting import
+import matplotlib.pyplot as plt 
 import csv
 
 import retico_core
